@@ -2,7 +2,7 @@
 Copied website: https://fleep.io/home
   Reason: challenging animations
   
-Used framework: Semantic UI https://foundation.zurb.com/
+Used framework: Semantic UI https://semantic-ui.com/
   Reason: I have already used Bootstrap and Semantic UI in another projects.
           That's why I have decided to use Foundation by ZURB in the first place. 
           But, because on 09.02.2020 Foundation by ZURB website is not working, I have decided to change it for Semantic UI.
