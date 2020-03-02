@@ -10,7 +10,8 @@ Fleep https://fleep.io/home
 ZURB Foundation https://get.foundation/
 
 ## Installation
-
+*Download foundation from https://dhbhdrzi4tiry.cloudfront.net/downloads/releases/Foundation-6.6.1-CSS-project.zip
+*Put files from project to Foundation folder
 
 ## License
 License The MIT License (MIT) Copyright © 2020 <Tatjana Kuznetsova>
